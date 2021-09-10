@@ -40,7 +40,7 @@
  - [Travel Tracker](https://e-spitz.github.io/travel-tracker/)
     - Sign in using traveler + any number 1-50 (ex: traveler15), password travel2020
  - [Rancid-Tomatillos](https://e-spitz.github.io/rancid-tomatillos/)
-    - Working on fixing deployment. Click on the image to visit home page =)
+
   
  ### Stats & Tech Stack:
 <div>
