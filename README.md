@@ -18,7 +18,7 @@
 - 💬 Connect with me: [LinkedIn](https://www.linkedin.com/in/e-spitz/)
 - 📚 Currently learning ... *_React & TypeScript_*
 - 🎓 University of Kentucky > Bachelor's Degree in Kinesiology/Exercise Science, Minor in Art Studio
-- 🧑‍💻 Front-End Software Engineering Certification (anticipated completion: **November 2021**)
+- 🧑‍💻 Front-End Software Engineering Certification
 - 🐎 Born and raised in Louisville, Kentucky (yes, the grass is really blue!)
  
  ### fun Fun FUN Facts
@@ -33,7 +33,6 @@
  - 🐕 Extreme love for doggies
  - 🌏 Passion for traveling
  - 🏡 Kentucky to Pennsylvania to Utah to Colorado
- - 💕 Married to a hottie named Nathan
  - 👏 **20 years+ of team experience**
  
  ### R&P (recent & proud) Projects 
