@@ -1,6 +1,6 @@
 # <div align='center'>🤠👋 Howdy! 👋🤠</div>
 
-## <div align='center'>I'm **Erica Spitz** ⇒ Front End Developer Student at [Turing School of Software and Design](https://turing.edu/).</div>
+## <div align='center'>I'm **Erica Spitz** ⇒ Front End Software Engineer </div>
 
 <div align="center">  
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
@@ -16,7 +16,6 @@
 
 - 💁‍♀️ Pronouns: she/her
 - 💬 Connect with me: [LinkedIn](https://www.linkedin.com/in/e-spitz/)
-- 📚 Currently learning ... *_React & TypeScript_*
 - 🎓 University of Kentucky > Bachelor's Degree in Kinesiology/Exercise Science, Minor in Art Studio
 - 🧑‍💻 Front-End Software Engineering Certification
 - 🐎 Born and raised in Louisville, Kentucky (yes, the grass is really blue!)
